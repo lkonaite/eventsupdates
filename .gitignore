@@ -1,4 +1,9 @@
-/target/
+.classpath
 .project
 .settings
-.springBeans
+.idea
+*.iml
+target
+.DS_Store
+settings.xml
+.tern-project
