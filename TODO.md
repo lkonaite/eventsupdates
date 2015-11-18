@@ -1,2 +1,0 @@
-Story : Get Events List
-------------------------
